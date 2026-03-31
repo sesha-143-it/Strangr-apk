@@ -1,7 +1,7 @@
 # Building StrangR Mobile App: From Idea to MVP
 
-[Prototype StrangR APK File](https://drive.google.com/file/d/1lNjvei5tLgFv0HioZiuQZfT-8cFYHD4w/view?usp=sharing)\\
-[Prototype StrangR Web App](https://strangr-shy.vercel.app/)\\
+[Prototype StrangR APK File](https://drive.google.com/file/d/1lNjvei5tLgFv0HioZiuQZfT-8cFYHD4w/view?usp=sharing)\
+[Prototype StrangR Web App](https://strangr-shy.vercel.app/)\
 [Prototype StrangR Web App Git Repo](https://github.com/shagyeeen/StrangR.app)
 
 
