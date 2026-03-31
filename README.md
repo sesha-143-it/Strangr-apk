@@ -1,5 +1,8 @@
 # Building StrangR Mobile App: From Idea to MVP
 
+[APK File]([https://example.com](https://drive.google.com/file/d/1lNjvei5tLgFv0HioZiuQZfT-8cFYHD4w/view?usp=sharing))
+
+
 I started building StrangR with a simple vision: create an anonymous chat platform where strangers connect purely through conversation. This is my journey building it for mobile.
 
 ## The Challenge
